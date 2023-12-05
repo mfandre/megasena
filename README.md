@@ -2,10 +2,10 @@
 Python script to generate games based on last 3 draws
 
 # Installation
-pip install -r requirements.txt
+> pip install -r requirements.txt
 
 # Usage
-python main.py
+> python main.py
 
 Output:
 ```
